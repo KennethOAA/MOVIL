@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67744979694",
+    "project_id": "prueba-dca93",
+    "storage_bucket": "prueba-dca93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67744979694:android:dd754cd87810aa72b431ff",
+        "android_client_info": {
+          "package_name": "com.example.hola_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67744979694-kof2jli1jt4jfl3bmb35064sgvtaqfng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy6xL1PCDUTn9y-siXJNt5qp3Jh6FkRrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67744979694-kof2jli1jt4jfl3bmb35064sgvtaqfng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
